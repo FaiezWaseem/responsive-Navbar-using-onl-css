@@ -53,9 +53,7 @@ opacity: 0;
     text-decoration: none;
     color: #fff;
 }
-#check:checked ~ .list-item2{
-  opacity: 1;
-}
+
 
 
  @media screen and (max-width:768px)
